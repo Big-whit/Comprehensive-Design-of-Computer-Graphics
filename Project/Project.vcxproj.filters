@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Point3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="drawTable.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="drawTextureCube.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="drawChair.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="drawFloorAndWall.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="drawTextureCylinder.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="drawTV.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="drawCabinet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="drawPicture.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="drawTeaTable.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LSystemDrawGinkgo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="drawSofa.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlPointMatrix.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="drawCurtain.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="drawPillow.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ifs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="drawLamp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="drawDoor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="drawLivingRoomLight.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="drawTextureRing.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="drawChineseknot.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

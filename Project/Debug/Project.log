@@ -1,0 +1,10 @@
+﻿  main.cpp
+E:\大三下学期课程\计算机图形学\上机\综合大作业\Project\Project\LSystemDrawGinkgo.h(36,12): warning C4018: “<”: 有符号/无符号不匹配
+E:\大三下学期课程\计算机图形学\上机\综合大作业\Project\Project\LSystemDrawGinkgo.h(111,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\大三下学期课程\计算机图形学\上机\综合大作业\Project\Project\LSystemDrawGinkgo.h(115,13): warning C4018: “<”: 有符号/无符号不匹配
+    正在创建库 E:\大三下学期课程\计算机图形学\上机\综合大作业\Project\Debug\Project.lib 和对象 E:\大三下学期课程\计算机图形学\上机\综合大作业\Project\Debug\Project.exp
+gltools.lib(GLBatch.obj) : warning LNK4099: 未找到 PDB“gltools.pdb”(使用“gltools.lib(GLBatch.obj)”或在“E:\大三下学期课程\计算机图形学\上机\综合大作业\Project\Debug\gltools.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+gltools.lib(glew.obj) : warning LNK4099: 未找到 PDB“gltools.pdb”(使用“gltools.lib(glew.obj)”或在“E:\大三下学期课程\计算机图形学\上机\综合大作业\Project\Debug\gltools.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+gltools.lib(GLTools.obj) : warning LNK4099: 未找到 PDB“gltools.pdb”(使用“gltools.lib(GLTools.obj)”或在“E:\大三下学期课程\计算机图形学\上机\综合大作业\Project\Debug\gltools.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+gltools.lib(GLTriangleBatch.obj) : warning LNK4099: 未找到 PDB“gltools.pdb”(使用“gltools.lib(GLTriangleBatch.obj)”或在“E:\大三下学期课程\计算机图形学\上机\综合大作业\Project\Debug\gltools.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  Project.vcxproj -> E:\大三下学期课程\计算机图形学\上机\综合大作业\Project\Debug\Project.exe
